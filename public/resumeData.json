@@ -1,0 +1,139 @@
+{
+  "main": {
+    "name": "Faaraan Kazi",
+    "occupation": "Developer & Data Enthusiast",
+    "description": "Full Stack Developer & PG Diploma in Data Science student",
+    "image": "my.jpg",
+    "bio": "My name is Faaraan, I'm a Full Stack ReactJS Developer and Data Science lerner. Currently I'm PG Diploma in Data Science student",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "faaraankazi@gmail.com",
+    "phone": "+91 8879036847",
+    "address": {
+      "street": "LBS Marge",
+      "city": "Mumbai",
+      "state": "India",
+      "zip": "400001"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "https://drive.google.com/file/d/1k0qLuQXjnbUt34WZn_Xc6N3Z-3__HaXr/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/faaraan.kazi.9/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/faaraan-kazi-935892191",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/_faaraan/?hl=en",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/faaraan1997",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "Padmabhushan VasantDada Patil Pratishthan's College of Engineering",
+        "degree": "Bachelor in Computer Science Engineering",
+        "graduated": "May 2019",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Clever Programmer",
+        "title": "Team Member && React Specialist",
+        "years": "April 2020 - Present",
+        "description": "Teaching ReactJS to thousands of students."
+      },
+      {
+        "company": "Lindar Media",
+        "title": "Software Engineer",
+        "years": "Nov 2019 - April 2020",
+        "description": "Building MrQ, a gambling website."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "65%"
+      },
+      {
+        "name": "CSS",
+        "level": "70%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Python",
+        "level": "85%"
+      },
+      {
+        "name": "Machine Learning",
+        "level": "60%"
+      },
+      {
+        "name": "HTML5",
+        "level": "85%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "77%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "MERN Stack WhatsApp Clone",
+        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "whatsapp-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+      },
+      {
+        "title": "MERN Stack TikTok Clone",
+        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "tiktok-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+      },
+      {
+        "title": "Facebook Clone with React",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "facebook-clone.png",
+        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "Clone Built with ReactJS",
+        "image": "netflix-clone.jpeg",
+        "url": "http://netflix-clone001.herokuapp.com/"
+      },
+      {
+        "title": "Amazon Clone",
+        "category": "Clone built with ReactJS",
+        "image": "Amazon.png",
+        "url": "https://clone-a3836.web.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "There have to be reasons that you get up in the morning and you want to live. Why do you want to live? What's the point? What inspires you? What do you love about the future? If the future does not include being out there among the stars and being a multi-planet species, I find that incredibly depressing.",
+        "user": "Elon Musk"
+      }
+    ]
+  }
+}
